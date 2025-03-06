@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emilda Babu</h1>
 <h3 align="center">Embedded system enthusiast | Learning by doing</h3>
-<img align="right" alt="coding" width="350" src="">
+
+![Image](https://github.com/user-attachments/assets/97148382-12ab-4e97-918c-04c95888b5af)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emildababu&label=Profile%20views&color=0e75b6&style=flat" alt="emildababu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/emilda_babu_ot7" target="blank"><img src="https://img.shields.io/twitter/follow/emilda_babu_ot7?logo=twitter&style=for-the-badge" alt="emilda_babu_ot7" /></a> </p>
