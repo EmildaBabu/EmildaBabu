@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emilda Babu</h1>
 <h3 align="center">Embedded system enthusiast | Learning by doing</h3>
-<img align="right" alt="coding" width="350" src="[https://iconscout.com/lottie-animation/female-web-developer-4563721_3817229"](https://www.google.com/imgres?q=gif%20for%20women%20programmer&imgurl=https%3A%2F%2Fmedia.tenor.com%2FIF2JdxzmyN4AAAAj%2Fcoding-girl.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&docid=RD5pEjQYneaF0M&tbnid=vcOKkCyDugig2M&vet=12ahUKEwjtsoX95fWLAxW-1DgGHT2yKRgQM3oECB0QAA..i&w=200&h=150&hcb=2&ved=2ahUKEwjtsoX95fWLAxW-1DgGHT2yKRgQM3oECB0QAA)">
+<img align="right" alt="coding" width="350" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emildababu&label=Profile%20views&color=0e75b6&style=flat" alt="emildababu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/emilda_babu_ot7" target="blank"><img src="https://img.shields.io/twitter/follow/emilda_babu_ot7?logo=twitter&style=for-the-badge" alt="emilda_babu_ot7" /></a> </p>
