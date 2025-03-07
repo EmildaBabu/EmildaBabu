@@ -4,11 +4,9 @@
 ![Image](https://github.com/user-attachments/assets/97148382-12ab-4e97-918c-04c95888b5af)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emildababu&label=Profile%20views&color=0e75b6&style=flat" alt="emildababu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/emilda_babu_ot7" target="blank"><img src="https://img.shields.io/twitter/follow/emilda_babu_ot7?logo=twitter&style=for-the-badge" alt="emilda_babu_ot7" /></a> </p>
-
 - 🌱 I’m currently learning **Embedded system**
 
-- 💬 Ask me about **Microcontrollers programming,Embedded C and Embedded system design**
+- 💬 Ask me about **Embedded system, Microcontrollers and IoT**
 
 - 📫 How to reach me **emildababu2002@gmail.com**
 
@@ -18,6 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/emilda_babu_ot7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emilda_babu_ot7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emildababu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emildababu" height="30" width="40" /></a>
+<a href="https://instagram.com/emilda.babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emilda.babu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
