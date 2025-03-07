@@ -2,6 +2,7 @@
 <h3 align="center">Embedded system enthusiast | Learning by doing</h3>
 
 ![Image](https://github.com/user-attachments/assets/97148382-12ab-4e97-918c-04c95888b5af)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emildababu&label=Profile%20views&color=0e75b6&style=flat" alt="emildababu" /> </p>
 
 - 🌱 I’m currently learning **Embedded system**
@@ -9,6 +10,8 @@
 - 💬 Ask me about **Embedded system, Microcontrollers and IoT**
 
 - 📫 How to reach me **emildababu2002@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dTfBbQvr8kcx43zIEGl16x4ShtQ7iNaH/view?usp=drivesdk](https://drive.google.com/file/d/1dTfBbQvr8kcx43zIEGl16x4ShtQ7iNaH/view?usp=drivesdk)
 
 - ⚡ Fun fact **Caffeine dependent!!**
 
